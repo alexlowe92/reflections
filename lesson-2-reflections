@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new blank .git file is made and put into that folder you set as your directory. No commits are yet in your git repository but its tracking the files in that location. You need to initialise a git repository to store your projects and associated files. 
